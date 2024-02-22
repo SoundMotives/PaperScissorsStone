@@ -2,8 +2,6 @@
 
 As part of reviewing [Makers' Web Applications In Python](https://github.com/makersacademy/web-applications-in-python/), this is the Paper Scissors Stone challenge in the 'Going Further' section. 
 
-It used the [Python Flask HTML starter project](git@github.com:makersacademy/web-applications-in-python-project-starter-html.git), but as this project doesn't use a database it's much simpler. 
-
 To run this Paper Scissors Stone application locally follow the below instructions:
 
 ## Setup
