@@ -32,7 +32,3 @@ To run this Paper Scissors Stone application locally follow the below instructio
 ; python app.py
 # Now visit http://localhost:5001/ in your browser
 ```
-
-If you would like to remove the example code:
-
-```shell
