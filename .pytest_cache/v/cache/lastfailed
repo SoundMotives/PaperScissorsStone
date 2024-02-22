@@ -1,0 +1,6 @@
+{
+  "tests/test_app.py::test_get_emoji[chromium]": true,
+  "tests/test_app.py::test_get_goodbye[chromium]": true,
+  "tests/test_example_routes.py::test_get_books[chromium]": true,
+  "tests/test_example_routes.py::test_get_book[chromium]": true
+}
